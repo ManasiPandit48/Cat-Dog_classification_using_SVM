@@ -18,4 +18,7 @@ This project focuses on classifying images of dogs and cats using a Support Vect
 3. Train the SVM classifier on the features.
 4. Predict and visualize results for new images.
 
+### Predictions 
+![Screenshot 2024-08-01 105837](https://github.com/user-attachments/assets/dccd8d7f-bc05-45bc-8118-8fba0a55c791)
+
 ---
